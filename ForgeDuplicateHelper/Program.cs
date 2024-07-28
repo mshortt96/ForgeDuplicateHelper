@@ -69,7 +69,7 @@ public static class Program
                 return "Find Duplicates";
 
             case Option.TransferFiles:
-                return "Replace Files";
+                return "Transfer Files";
         }
     }
 }
